@@ -350,6 +350,7 @@ sudo npm install gulp -g
 sudo npm install --save-dev gulp-install
 sudo chown -R $USER ~/.npm
 sudo npm install -g grunt-cli
+npm install --global yarnpkg
 
 npm install -g bower
 
