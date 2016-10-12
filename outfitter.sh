@@ -74,6 +74,7 @@ binaries=(
   git
   mysql
   ansible
+  docker-machine
 )
 
 for i in "${bianaries[@]}"
@@ -105,6 +106,7 @@ apps=(
   google-chrome
   firefox
   vagrant
+  docker
   flash
   iterm2
   sublime-text3
