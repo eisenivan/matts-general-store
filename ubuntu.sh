@@ -14,3 +14,8 @@ echo 'export INFOPATH="$HOME/.linuxbrew/share/info:$INFOPATH"' >> ~/.zshrc
 
 # Install node.js
 brew install node
+
+# Install Atom code editor
+sudo add-apt-repository ppa:webupd8team/atom
+sudo apt-get update
+sudo apt-get install atom
