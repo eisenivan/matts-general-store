@@ -15,7 +15,6 @@ echo 'export PATH="$HOME/.linuxbrew/bin:$PATH"' >> ~/.zshrc
 echo 'export MANPATH="$HOME/.linuxbrew/share/man:$MANPATH"' >> ~/.zshrc
 echo 'export INFOPATH="$HOME/.linuxbrew/share/info:$INFOPATH"' >> ~/.zshrc
 
-# Install Perl dependency
 brew update
 
 # Install node.js
